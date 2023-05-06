@@ -15,7 +15,7 @@ var ffmpeg_path = 'C:/ffmpeg-2023-03-23-git-30cea1d39b-essentials_build/bin/ffmp
 var openai_apiKey = process.env.OPENAI_API_KEY;
 
 
-var stability = 1.00 // Stabilidad del habla de la IA
+var stability = 1.00 // Estabilidad del habla de la IA	
 var similarityBoost = 0.70
 const host = 'localhost';
 const port = 8000;
